@@ -94,7 +94,6 @@ li:last-child {
   margin: 30px auto 0;
 }
 .name-price {
-  height: 40px;
   line-height: normal;
   background-color: #323232;
 }
@@ -212,8 +211,9 @@ li:last-child {
   line-height: 26px;
   font-size: 16px;
   color: #ffffff;
+  text-decoration: none;
 }
-.button {
+button {
   display: inline-block;
   background-color: #4ec6ab;
   border-radius: 3px;
